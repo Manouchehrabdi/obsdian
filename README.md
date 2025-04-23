@@ -1,3 +1,3 @@
 #MyNots
-[Vuejs](01_معرفی%20دوره%20VueJs.md)
+[Vuejs](01_%20معرفی.md)
 
