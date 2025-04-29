@@ -14,3 +14,9 @@ npm install npm@latest -g
 npm --version 
 vue create linuxtuto-project
 ```
+![image](images/vue_cli.jpg)```
+```
+cd linuxtuto-project
+npm run serve
+```
+![image](images/vue_cli1.jpg)
